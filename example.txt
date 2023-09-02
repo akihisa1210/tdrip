@@ -1,0 +1,6 @@
+This is the example text.
+TODO This line will be removed.
+FIXME This line will be removed.
+HACK: This line will be removed.
+NOTEThis line will be removed.
+This line will not be removed. TODO
