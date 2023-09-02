@@ -2,6 +2,12 @@
 name = "tdrip"
 version = "0.1.0"
 edition = "2021"
+authors = ["akihisa1210"]
+license = "MIT"
+description = "tdrip is a command-line tool to easily remove headers and metadata from text."
+readme = "README.md"
+homepage = "https://github.com/akihisa1210/tdrip"
+repository = "https://github.com/akihisa1210/tdrip"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
